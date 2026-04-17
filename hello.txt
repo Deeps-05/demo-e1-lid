@@ -1,1 +1,4 @@
-hello
+Undoing changes
+git restore
+git reset
+git revert
