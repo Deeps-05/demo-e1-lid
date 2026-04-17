@@ -1,2 +1,6 @@
+Undoing changes
+git restore
+git reset
+git revert
 git reflog 
 git rm
